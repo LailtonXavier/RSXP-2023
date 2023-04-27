@@ -1,4 +1,4 @@
-### RSXT - project mobile and api in Nest
+# RSXT - project mobile and api in Nest
 
 # map front
   - Expo
